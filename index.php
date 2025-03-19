@@ -51,7 +51,7 @@
                 <!-- Static Student Row Example (this will be replaced dynamically) -->
                 <tr>
                   <th scope="row">1</th>
-                  <td>Brandon Jacob</td>
+                  <td>Jethro Pestaño</td>
                   <td>BSIT</td>
                   <td>20</td>
                   <td>San Vicente, Bulan, Sorsogon</td>
